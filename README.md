@@ -1,3 +1,6 @@
+# @pch1024/commit-cz
+
+```JS
 // 基于 @commitlint/config-conventional 扩展的汉化版
 // 原版：https://github.com/conventional-changelog/commitlint/blob/master/%40commitlint/config-conventional/index.js
 // 约定式提交：https://www.conventionalcommits.org/zh-hans/v1.0.0/
@@ -106,3 +109,4 @@ module.exports = {
         },
     },
 };
+```
