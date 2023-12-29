@@ -46,7 +46,7 @@ module.exports = {
                     },
                     test: {
                         description:
-                            "用于修改测试用例，例如添加、删除、修改代码的测试用例等。",
+                            "用于修改测试用例，例如添加、删除、修改代码的测试用例等；",
                         title: "🚨 测试相关",
                         emoji: "🚨",
                     },
@@ -69,7 +69,7 @@ module.exports = {
                         emoji: "♻️",
                     },
                     revert: {
-                        description: "恢复以前的提交",
+                        description: "恢复以前的提交；",
                         title: "🗑 回退代码",
                         emoji: "🗑",
                     },
